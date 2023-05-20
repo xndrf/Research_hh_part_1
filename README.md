@@ -76,4 +76,4 @@ import plotly.io as pio
 ## Дополнительные сведения о проекте
 В связи с тем, что GitHub не позволяет просматривать графики с библиотеки plotly рекомендуемы источник просмотра проектной работы сайт [nbviewer.org](https://nbviewer.org).
 
-Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Research_hh_part_1/blob/1a2bff901da7a30cde551ebce7241da55fe87ad7/Project-1.%20Ноутбук-шаблон.ipynb)
+Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Research_hh_part_1/blob/53163129d0123d3a2b1b4627bffe2de8293a128d/Project-1.%20Ноутбук-шаблон.ipynb)
